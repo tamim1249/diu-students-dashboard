@@ -1,1 +1,1 @@
-# diu-students-dashboard
+Deleted old empty README.md
